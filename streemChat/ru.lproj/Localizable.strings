@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  streemChat
+
+  Created by Ислам Батыргереев on 28.06.2024.
+  
+*/
+
+"authTitleLabel" = "Авторизация";
+"passwordPlaceholder" = "Пароль";
+"authButtonText" = "Войти";
+
+"regTitleLabel" = "Регистрация";
+"regButtonText" = "Регистрация";
+
+
+"namePlaceholder" = "Регистрация";
+
+
+"tabUsers" = "Пользователи";
+"tabMessages" = "Сообщения";
+
